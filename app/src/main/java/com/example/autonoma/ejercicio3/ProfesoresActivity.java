@@ -77,7 +77,7 @@ public class ProfesoresActivity extends AppCompatActivity {
 
         switch (item.getItemId()){
             case R.id.menu_eliminar:
-            Profesores.remove.(info.position);
+            Profesores.remove(info.position);
             adapter.notifyDataSetChanged();
 
             return true;

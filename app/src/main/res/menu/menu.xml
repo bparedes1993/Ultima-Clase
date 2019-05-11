@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_add_item"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Agregar Item"
+        />
+    <item
+        android:id="@+id/menu_refrescar"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Refrescar"
+        />
+    <item
+        android:id="@+id/menu_vermapa"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Ver Mapa"
+        />
+    <item
+        android:id="@+id/menu_cerrar"
+        android:icon="@android:drawable/ic_menu_add"
+        android:title="Cerrar"
+        />
+
+</menu>
